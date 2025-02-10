@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<!-- Stunning 3D Banner with Animation -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:3494E6,100:EC6EAD&height=300&section=header&text=Digital%20Communications&desc=Advanced%20Signal%20Processing%20%26%20MATLAB%20Engineering&animation=fadeIn&fontSize=60&fontAlignY=35&descAlignY=60&stroke=000&strokeWidth=2" width="100%"/>
-
 <!-- Animated Visitor Badge -->
 
 ![](https://count.getlowtech.com/get/@rikulauttia?theme=rule)
@@ -285,7 +282,11 @@ Self-Study
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
