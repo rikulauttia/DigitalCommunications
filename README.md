@@ -101,19 +101,16 @@ gantt
 ```ascii
 📦 DigitalCommunications
  ┣ 📂 Exercise1
- ┃ ┣ 🔷 Task1.m - Signal Generation
- ┃ ┣ 🔷 Task2.m - FFT Analysis
- ┃ ┗ 🔷 Task3.m - Filter Design
+ ┃ ┣ 🔷 Task1.m
+ ┃ ┣ 🔷 Task2.m
+ ┃ ┗ 🔷 Task3.m
  ┣ 📂 Exercise2
- ┃ ┣ 🔷 Task1.m - Modulation
- ┃ ┣ 🔷 Task2.m - Demodulation
- ┃ ┗ 🔷 Task3.m - Performance
+ ┃ ┣ 🔷 Task1.m
+ ┃ ┣ 🔷 Task2.m
+ ┃ ┗ 🔷 Task3.m
  ┣ 📂 Exercise3
- ┃ ┣ 🔷 Task1.m - Channel Coding
- ┃ ┣ 🔷 Task2.m - Error Analysis
- ┃ ┗ 🔷 Task3.m - System Design
+ ┃ ┣ 🔷 Task1.m
  ┣ 📜 README.md
- ┗ 📜 .gitignore
 ```
 
 </details>
